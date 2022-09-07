@@ -1,11 +1,11 @@
 # Machine-Learning-and-Neural-Network#
 
-#Linear Regression for Housing#
+Linear Regression for Housing
 
-#SVM for Diabetes#
+SVM for Diabetes
 
-#Decision Tree for Diabetes#
+Decision Tree for Diabetes
 
-#K Means- Mall Customer#
+K Means- Mall Customer
 
-#MNIST -Handwritten dataset Using CNN#
+MNIST -Handwritten dataset Using CNN
